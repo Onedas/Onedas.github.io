@@ -9,9 +9,7 @@ github:
   text:onedas.github.com
 ---
 
-# Onedas
-
-## 김진성 (Jinsung Kim)
+# Onedas, 김진성 (Jinsung Kim)
 
 <!--
 include contact information from the front matter
@@ -57,7 +55,7 @@ Supported arguments:
 
 ## Project
 
-- **Deep learning-based Acoustic source  manipulation **
+- **Deep learning-based Acoustic source  manipulation**
 
 ```
 2021 ~
