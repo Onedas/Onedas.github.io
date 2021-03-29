@@ -4,12 +4,11 @@ title: Jinsung Kim
 email:
   url: wlstjd2003@korea.ac.kr
   text: wlstjd2003@korea.ac.kr
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
 ---
 
-# Jinsung **Kim**
+# Onedas
+
+## 김진성 (Jinsung Kim)
 
 <!--
 include contact information from the front matter
