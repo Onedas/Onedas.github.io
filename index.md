@@ -26,7 +26,6 @@ Supported arguments:
 
 I'm studying at Korea University for my master's degree.
 
-
 ### Research Interests
 
 - **Deep Learning**
@@ -36,7 +35,7 @@ I'm studying at Korea University for my master's degree.
   - Signal processing : Seperation, Generation.
 
   - Semi-Supervised learning
-  
+
 ---
 
 ## Education
