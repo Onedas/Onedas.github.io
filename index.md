@@ -60,18 +60,32 @@ National Research Foundation of Korea, Korea University
 ## Additional information
 
 ### **Skills**
+
+- Language
+  - Python
+  - C
+
+- DB
+  - MYSQL
+
+- Environment
+  - Windows
+  - Linux
+
+- ETC
+  - git
+  - docker
+  - matlab
+
   
 ### **Certifications**
 
 - Engineer Information Processing(정보처리기사)
 
-
-
 ### **Circle**
 
 - Vice president of Korea University Magic club
 
-- 
 
 
 
