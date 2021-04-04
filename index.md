@@ -6,7 +6,7 @@ email:
   text: wlstjd2003@korea.ac.kr
 github:
   url: onedas.github.com
-  text:onedas.github.com
+  text: onedas.github.com
 ---
 
 # Onedas, 김진성 (Jinsung Kim)
