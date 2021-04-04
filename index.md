@@ -3,12 +3,12 @@ layout: cv
 title: Jinsung Kim
 
 email:
-  url: wlstjd2003@korea.ac.kr
+  <!-- url: wlstjd2003@korea.ac.kr -->
   text: wlstjd2003@korea.ac.kr
 
 github:
   url: https://onedas.github.com
-  text: onedas.github.com
+  text: https://onedas.github.com
 ---
 
 # Jinsung Kim (김진성)
