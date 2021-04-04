@@ -1,9 +1,11 @@
 ---
 layout: cv
 title: Jinsung Kim
+
 email:
   url: wlstjd2003@korea.ac.kr
   text: wlstjd2003@korea.ac.kr
+
 github:
   url: onedas.github.com
   text: onedas.github.com
@@ -29,11 +31,8 @@ I'm studying at Korea University for my master's degree.
 ### Research Interests
 
 - **Deep Learning**
-
   - Image processing : Inpainting, Segmentation, and Recognition
-
   - Signal processing : Seperation, Generation.
-
   - Semi-Supervised learning
 
 ---
