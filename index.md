@@ -7,7 +7,7 @@ email:
   text: wlstjd2003@korea.ac.kr
 
 github:
-  url: onedas.github.com
+  url: https://onedas.github.com
   text: onedas.github.com
 ---
 
