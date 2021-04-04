@@ -31,10 +31,10 @@ Supported arguments:
 ### **Contact**
 
 - Email. 
-  wlstjd2003@korea.ac.kr
+  wlstjd2003(at)korea.ac.kr
 
-- Phone. 
-  010-9903-1174
+- <!-- Phone. 
+  010-9903-1174 -->
 
 - github. 
   [https://github.com/Onedas](https://github.com/Onedas)
