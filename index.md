@@ -36,54 +36,38 @@ Supported arguments:
 
 ## Achievements
 
-### [Classification of oral diseases competition](http://intelligence.korea.ac.kr/news/2021/03/08/ai-competition.html) 
+### [Classification of oral diseases competition](http://intelligence.korea.ac.kr/news/2021/03/08/ai-competition.html) `2021`
 
-- 2nd prices
-
-  ```
-  2021, Samsung Medical Center
-  ```
+- 2nd prices `Samsung Medical Center`
 
 
-### [Seoul Ai Chatbot competition; Chatboton, ](https://www.donga.com/news/Society/article/all/20191016/97895354/1) 
 
-- 2nd prices
+### [Seoul Ai Chatbot competition; Chatboton, ](https://www.donga.com/news/Society/article/all/20191016/97895354/1) `2019`
 
-    ```
-    2019, City of Seoul
-    ```
+- 2nd prices `City of Seoul`
 
 ---
 
 ## Project
 
-- **Deep learning-based Acoustic source  manipulation**
+- **Deep learning-based Acoustic source  manipulation** `2021 ~ `
+
 
 ```
-2021 ~
 National Research Foundation of Korea, Korea University
 ```
 
 ## Additional information
 
-### Skills
-
-- python
-
-- C
-
-- MySQL
-
-### Certifications
+### **Skills**
+  
+### **Certifications**
 
 - Engineer Information Processing(정보처리기사)
 
-  ```
-
-  ```
 
 
-### Circle
+### **Circle**
 
 - Vice president of Korea University Magic club
 
