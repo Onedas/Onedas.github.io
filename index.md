@@ -9,7 +9,7 @@ github:
   text: onedas.github.com
 ---
 
-# Onedas, 김진성 (Jinsung Kim)
+# Jinsung Kim (김진성)
 
 <!--
 include contact information from the front matter
@@ -36,20 +36,20 @@ Supported arguments:
 
 ## Grants & Awards
 
-- [Classification of oral diseases competition](http://intelligence.korea.ac.kr/news/2021/03/08/ai-competition.html) : 2nd prices
+### [Classification of oral diseases competition](http://intelligence.korea.ac.kr/news/2021/03/08/ai-competition.html) 
+- 2nd prices
 
   ```
   2021, Samsung Medical Center
   ```
 
 
-- [Seoul Ai Chatbot competition; Chatboton, ](https://www.donga.com/news/Society/article/all/20191016/97895354/1) : 2nd prices
+### [Seoul Ai Chatbot competition; Chatboton, ](https://www.donga.com/news/Society/article/all/20191016/97895354/1) 
+- 2nd prices
 
     ```
     2019, City of Seoul
     ```
-
-- 
 
 ---
 
@@ -62,18 +62,6 @@ Supported arguments:
 National Research Foundation of Korea, Korea University
 ```
 
-
-
-- **Object-shadow Image manipulation**
-
-```
-2021 ~
-National Research Foundation of Korea, Korea university
-```
-
-
-
-- 
 
 ---
 
