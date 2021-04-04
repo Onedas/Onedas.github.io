@@ -34,9 +34,10 @@ Supported arguments:
 - Korea University, `Seoul`
   
 
-## Grants & Awards
+## Achievements
 
 ### [Classification of oral diseases competition](http://intelligence.korea.ac.kr/news/2021/03/08/ai-competition.html) 
+
 - 2nd prices
 
   ```
@@ -45,6 +46,7 @@ Supported arguments:
 
 
 ### [Seoul Ai Chatbot competition; Chatboton, ](https://www.donga.com/news/Society/article/all/20191016/97895354/1) 
+
 - 2nd prices
 
     ```
@@ -62,9 +64,30 @@ Supported arguments:
 National Research Foundation of Korea, Korea University
 ```
 
+## Additional information
 
----
+### Skills
 
+- python
+
+- C
+
+- MySQL
+
+### Certifications
+
+- Engineer Information Processing(정보처리기사)
+
+  ```
+
+  ```
+
+
+### Circle
+
+- Vice president of Korea University Magic club
+
+- 
 
 
 
