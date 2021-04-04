@@ -28,14 +28,13 @@ Supported arguments:
   - Semi-Supervised learning
 
 ### **Contact**
-
-- Email
+- Email. 
   wlstjd2003@korea.ac.kr
 
-- Phone
+- Phone. 
   010-9903-1174
 
-- github
+- github. 
   [https://github.com/Onedas](https://github.com/Onedas)
 
 
