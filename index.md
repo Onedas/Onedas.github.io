@@ -40,7 +40,6 @@ Supported arguments:
   [https://github.com/Onedas](https://github.com/Onedas)
 
 
----
 
 ## Education
 
@@ -53,7 +52,7 @@ Supported arguments:
 
 - Korea University, `Seoul`
 
----  
+  
 
 ## Achievements
 
@@ -65,7 +64,7 @@ Supported arguments:
 
 - 2nd prices `City of Seoul`
 
----
+
 
 ## Project
 
@@ -75,7 +74,7 @@ Supported arguments:
 National Research Foundation of Korea, Korea University
 ```
 
----
+
 
 ## Additional information
 
