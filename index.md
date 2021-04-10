@@ -30,9 +30,9 @@ Supported arguments:
 
 ### **Contact**
 
-Email. wlstjd2003(at)korea.ac.kr
+- Email. wlstjd2003(at)korea.ac.kr
   
-github. [https://github.com/Onedas](https://github.com/Onedas)
+- github. [https://github.com/Onedas](https://github.com/Onedas)
 
 ## Education
 
@@ -83,21 +83,13 @@ National Research Foundation of Korea, Korea University
   
 ### **Skills**
 
-- Language
+- Language : Python, C
 
-    Python, C
+- DB : MYSQL
 
-- DB
+- Environment : Windows, Linux
 
-    MYSQL
-
-- Environment
-
-    Windows, Linux
-
-- ETC
-
-    git, docker, matlab
+- ETC : git, docker, matlab
 
 
 
