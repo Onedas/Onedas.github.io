@@ -84,16 +84,20 @@ National Research Foundation of Korea, Korea University
 ### **Skills**
 
 - Language
-  Python, C
+
+    Python, C
 
 - DB
-  MYSQL
+
+    MYSQL
 
 - Environment
-  Windows, Linux
+
+    Windows, Linux
 
 - ETC
-  git, docker, matlab
+
+    git, docker, matlab
 
 
 
