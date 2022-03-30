@@ -3,18 +3,19 @@ layout: cv
 title: Jinsung Kim
 ---
 
-# Jinsung Kim (김진성)
+# Jinsung Kim 
+# (김진성)
 
-<!--
-include contact information from the front matter
+
+<!-- include contact information from the front matter
 Supported arguments:
 
     - homepage: url, text
         - phone: 010-9903-1174
-        - email: wlstjd2003@korea.ac.kr
--->
+        - email: wlstjd2003@korea.ac.kr -->
 
-{% include cv-contact.html %}
+
+<!-- {% include cv-contact.html %} -->
 
 ## Currently
 
@@ -23,18 +24,14 @@ Supported arguments:
 ### **Research Interests**
 
 - Deep Learning
-  - Image processing : Inpainting, Segmentation, and Recognition
-  - Signal processing : Seperation, Generation.
-  - Semi-Supervised learning
-
+  - Audio processing : Music Seperation, Voice Conversion, and Generation.
+  - Image processing : Inpainting, Segmentation, and Recognition.
 
 ### **Contact**
 
-Email. 
-  wlstjd2003(at)korea.ac.kr
-github. 
-  [https://github.com/Onedas](https://github.com/Onedas)
-
+- email : wlstjd2003(at)korea.ac.kr
+- github : [https://github.com/Onedas](https://github.com/Onedas)
+  
 ## Education
 
 ### **M.S. in Computre Science** `2021.03 ~ currently`
@@ -49,6 +46,10 @@ github.
   
 
 ## Achievements
+
+### Camera picture enhancement ai competition `2021`
+
+- 6th `LG ai research`
 
 ### [Classification of oral diseases competition](http://intelligence.korea.ac.kr/news/2021/03/08/ai-competition.html) `2021`
 
@@ -68,7 +69,15 @@ github.
 National Research Foundation of Korea, Korea University
 ```
 
+## Publications:
 
+### Yeong-Seok Jeong, Jinsung Kim, Woosung Choi, Jaehwa Chung, Soonyoung Jung `2021`
+
+- [LightSAFT: Lightweight Latent Source Aware Frequency Transform for Source Separation](https://arxiv.org/abs/2111.12516) `ISMIR workshop`
+
+### Jinsung Kim, Yeong-Seok Jeong, Woosung Choi, Jaehwa Chung, Soonyoung Jung `2021`
+
+- [Learning source-aware representations of music in a discrete latent space](https://arxiv.org/abs/2111.13321) `ISMIR workshop`
 
 ## Additional information
 
@@ -82,23 +91,3 @@ National Research Foundation of Korea, Korea University
   - Director of Misdirection's 21'th magic concert `2014.10`
   - Vice president of Korea University Magic club `2014.01 ~ 2014.12`
   
-### **Skills**
-
-- Language
-  - Python
-  - C
-
-- DB
-  - MYSQL
-
-- Environment
-  - Windows
-  - Linux
-
-- ETC
-  - git
-  - docker
-  - matlab
-
-
-
