@@ -51,7 +51,7 @@ Supported arguments:
 
 - 6th `LG ai research`
 
-### [Classification of oral diseases competition](http://intelligence.korea.ac.kr/news/2021/03/08/ai-competition.html) `2021`
+### [Classification of oral diseases competition](https://kuielab.github.io/news/2021/03/08/ai-competition.html) `2021`
 
 - 2nd prices `Samsung Medical Center`
 
