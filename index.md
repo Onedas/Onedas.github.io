@@ -3,8 +3,7 @@ layout: cv
 title: Jinsung Kim
 ---
 
-# Jinsung Kim 
-# (김진성)
+# Jinsung Kim (김진성)
 
 
 <!-- include contact information from the front matter
@@ -24,9 +23,9 @@ Supported arguments:
 ### **Research Interests**
 
 - Deep Learning
-  - Audio processing : Music Seperation, Voice Conversion, and Generation.
-  - Image processing : Inpainting, Segmentation, and Recognition.
-
+  - Audio processing : Music Separation, Voice Conversion, and Audio Generation.
+  - Image processing : Generation, Inpainting, Segmentation, and Recognition.
+  
 ### **Contact**
 
 - email : wlstjd2003(at)korea.ac.kr
@@ -53,11 +52,11 @@ Supported arguments:
 
 ### [Classification of oral diseases competition](https://kuielab.github.io/news/2021/03/08/ai-competition.html) `2021`
 
-- 2nd prices `Samsung Medical Center`
+- 2nd place `Samsung Medical Center`
 
 ### [Seoul Ai Chatbot competition; Chatboton, ](https://www.donga.com/news/Society/article/all/20191016/97895354/1) `2019`
 
-- 2nd prices `City of Seoul`
+- 2nd place `City of Seoul`
 
 
 
@@ -71,13 +70,16 @@ National Research Foundation of Korea, Korea University
 
 ## Publications:
 
+### Jinsung Kim, Yeong-Seok Jeong, Woosung Choi, Jaehwa Chung, Soonyoung Jung `2021`
+
+- [Learning source-aware representations of music in a discrete latent space](https://arxiv.org/abs/2111.13321) `ISMIR workshop`
+
 ### Yeong-Seok Jeong, Jinsung Kim, Woosung Choi, Jaehwa Chung, Soonyoung Jung `2021`
 
 - [LightSAFT: Lightweight Latent Source Aware Frequency Transform for Source Separation](https://arxiv.org/abs/2111.12516) `ISMIR workshop`
 
-### Jinsung Kim, Yeong-Seok Jeong, Woosung Choi, Jaehwa Chung, Soonyoung Jung `2021`
 
-- [Learning source-aware representations of music in a discrete latent space](https://arxiv.org/abs/2111.13321) `ISMIR workshop`
+###  
 
 ## Additional information
 
